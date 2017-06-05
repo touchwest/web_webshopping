@@ -1,6 +1,8 @@
-[touchwest模板]
-本模板自动加载了
+[touchwest模锟斤拷]
+锟斤拷模锟斤拷锟皆讹拷锟斤拷锟斤拷锟斤拷
 	jquery
 	bootstrap
-	对ie的debug
-等js和css.
+	锟斤拷ie锟斤拷debug
+锟斤拷js锟斤拷css.
+
+https://github.com/touchwest/web_webshopping.git
